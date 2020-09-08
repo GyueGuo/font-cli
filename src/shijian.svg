@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>shijian@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="职位详情-校招" transform="translate(-571.000000, -447.000000)" fill="#333333" fill-rule="nonzero">
+            <g id="Group-19-Copy" transform="translate(571.000000, 442.000000)">
+                <g id="地点" transform="translate(0.000000, 5.000000)">
+                    <g id="Group-24">
+                        <path d="M13.0667501,24.7913043 C19.1418823,24.7913043 24.0667501,19.8664366 24.0667501,13.7913043 C24.0667501,7.7161721 19.1418823,2.79130435 13.0667501,2.79130435 C6.99161782,2.79130435 2.06675007,7.7161721 2.06675007,13.7913043 C2.06675007,19.8664366 6.99161782,24.7913043 13.0667501,24.7913043 Z M13.0667501,26.7913043 C5.88704832,26.7913043 0.066750067,20.9710061 0.066750067,13.7913043 C0.066750067,6.6116026 5.88704832,0.791304348 13.0667501,0.791304348 C20.2464518,0.791304348 26.0667501,6.6116026 26.0667501,13.7913043 C26.0667501,20.9710061 20.2464518,26.7913043 13.0667501,26.7913043 Z" id="Oval-5"></path>
+                        <rect id="矩形" x="12" y="7" width="2" height="9"></rect>
+                        <rect id="矩形" transform="translate(15.500000, 15.000000) rotate(-270.000000) translate(-15.500000, -15.000000) " x="14.5" y="11.5" width="2" height="7"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
