@@ -1,38 +1,18 @@
 {
-  "_from": "@liepin/native-font-wx@^1.0.10",
-  "_id": "@liepin/native-font-wx@1.0.11",
-  "_inBundle": false,
-  "_integrity": "sha1-5hZSeG8uIHW1RKzvmM9THb4WAXQ=",
-  "_location": "/@liepin/native-font-wx",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "@liepin/native-font-wx@^1.0.10",
-    "name": "@liepin/native-font-wx",
-    "escapedName": "@liepin%2fnative-font-wx",
-    "scope": "@liepin",
-    "rawSpec": "^1.0.10",
-    "saveSpec": null,
-    "fetchSpec": "^1.0.10"
-  },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "http://registry.cnpm.lietou.com/@liepin/native-font-wx/download/@liepin/native-font-wx-1.0.11.tgz",
   "_shasum": "e61652786f2e2075b544acef98cf531dbe160174",
-  "_spec": "@liepin/native-font-wx@^1.0.10",
   "_where": "/Users/guojiyuan/works/svn/mp/fe-c-mp/.dist",
   "author": "",
   "bundleDependencies": false,
   "deprecated": false,
   "description": "## 使用",
   "devDependencies": {
-    "@liepin/nodejs-svgs2font": "^0.2.1"
+    "nodejs-svgs2font": "latest"
   },
   "license": "ISC",
   "main": "index.js",
-  "name": "@liepin/native-font-wx",
   "scripts": {
     "build": "node ./bin/index.js"
   },

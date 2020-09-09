@@ -1,4 +1,4 @@
-const svgsFont = require('@liepin/nodejs-svgs2font');
+const svgsFont = require('nodejs-svgs2font');
 const path = require('path');
 
 const current = path.resolve('..');

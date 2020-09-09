@@ -5,7 +5,6 @@
 
 ```javascript
 // 公用入口引用
-import '@liepin/native-font-wx'
 ```
 
 ## 新增svg字体
